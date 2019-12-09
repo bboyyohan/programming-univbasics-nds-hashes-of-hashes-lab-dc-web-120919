@@ -59,4 +59,5 @@ PORTION_1 = {
    label: "Species",
    sub_category: nil
  }
+ }
 end
