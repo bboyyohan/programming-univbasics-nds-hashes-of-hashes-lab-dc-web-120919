@@ -48,8 +48,7 @@ PORTION_1 = {
      sub_category: {
        label: "Class"
      }
-   }
- },
+   },
    label: "Order"
  }, 
    label: "Family",
