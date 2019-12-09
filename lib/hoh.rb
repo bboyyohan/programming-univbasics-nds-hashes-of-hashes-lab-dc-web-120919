@@ -47,5 +47,6 @@ def naming_system
      label: "Phylum",
      sub_category: {
        label: "Class",
+       label: "Order",
 end
 
